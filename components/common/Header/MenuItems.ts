@@ -1,6 +1,6 @@
 export const MenuItems = [
   {
-    label: "menu 1",
+    label: "menu 6",
     url: "/#",
     isExternal: false,
   },
